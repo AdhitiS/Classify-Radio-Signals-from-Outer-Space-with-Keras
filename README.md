@@ -6,4 +6,4 @@ Building and training a convolutional neural network (CNN) in Keras from scratch
  Sklearn\
  Matplotlib\
  Numpy\
- Pandas\
+ Pandas
